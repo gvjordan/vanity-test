@@ -1,3 +1,3 @@
-module gvnet.me/go/vanity-test
+module go.gvnet.me/vanity-test
 
 go 1.17
