@@ -1,4 +1,4 @@
-package main // import "go.gvnet.me/vanity-test"
+package vttest // import "go.gvnet.me/vanity-test"
 
 import (
 	"fmt"
